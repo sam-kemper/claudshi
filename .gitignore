@@ -1,0 +1,15 @@
+.env
+.claude/
+data/
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+improvements.md
+.gstack/
+
+# Logs
+*.log
+logs/
+.env.*
+!.env.example
